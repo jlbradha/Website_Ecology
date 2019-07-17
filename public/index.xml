@@ -6,20 +6,55 @@
     <description>Recent content on Terrestrial Ecology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title></title>
+      <link>/overview/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/overview/</guid>
+      <description>&amp;ndash;&amp;gt; add printable syllabus link
+Course Description and Logistics Basic Information Professor Dr. Jennifer Bradham
+Email: jennifer.l.bradham@vanderbilt.edu
+Office: insert office location
+Office Hours: insert office hours
+Course Schedule Class Meetings: MWF 9:30 - 10:30 am in ENVS room &amp;hellip;
+Lab: Wednesday 2:00-5:00 pm in ENVS room&amp;hellip;
+Course Overview Welcome to Terrestrial Ecology! I am THRILLED to teach this class and I hope to show you why terrestrial ecology is such a fascinating field.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resources/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Course Resources Lab write-up guidelines Lab write-ups will follow the scientific method and will be a mini version of a scientific paper.
+Software Resources While all analytical work can be done in the computer lab, you may find you prefer to also work from your own computer. Here are some helpful resources for installing the appropriate software on your computer. Please come to me if you need additional help.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/schedule/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>Schedule under construction
+ Date Lesson Reading Lecture Lab Assignment   Monday, Feb 3, 2020 Introduction &amp;amp; the Scientific Method       Wednesday, Feb 5, 2020 What is an ecosystem?       Friday, Feb 7, 2020 Terrestrial ecosystems       Monday, Feb 10, 2020        Wednesday, Feb 12, 2020        Friday, Feb 14, 2020        Monday, Feb 17, 2020        Wednesday, Feb 19, 2020        Friday, Feb 21, 2020        Monday, Feb 24, 2020        Wednesday, Feb 26, 2020        Friday, Feb 28, 2020        Monday, Mar 2, 2020 Pick your teams for March Mammal Maddness!</description>
+    </item>
+    
+    <item>
+      <title>Get Involved!</title>
+      <link>/involved/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/involved/</guid>
+      <description>Do you love ecology? If you are interested in learning more about ecology, consider one of the ways below to get more involved!
+1) Join an ecological association There are a lot of ecologists out there and the field of ecology is incredably broad. Consider joining an ecological association to meet others who share you love of ecology. Each of these associations hold an annual meeting, which is a great way to meet potential graduate school advisors, learn about internship opportunities, or find ecology-related jobs.</description>
     </item>
     
   </channel>

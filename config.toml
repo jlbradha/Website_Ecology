@@ -44,8 +44,8 @@ homepage = "www.jenbradham.com"
 [params]
 profname = "Jennifer Bradham"
 dateFormat = "July 8, 2019"
-background = "img/PETAR.jpg"
-backgroundCredit = "PETAR (Atlantic Forest of Brazil), photo by Jennifer Bradham"
+background = "img/Bird.jpg"
+backgroundCredit = "Pantanal, photo by Jennifer Bradham"
 math = "true"
 backgroundColor = "white"
 backgroundSize = "cover"
@@ -54,9 +54,18 @@ backgroundRepeat = "repeat-y"
 shortCourseName = "ENVS ###"
 fullCourseName = "ENVS ### Terrestrial Ecology"
 semester = "Spring 2019"
-courseCatalogEntry = "Students will develop quantitative and environmental literacy by analyzing real-world environmental situations and problems with the use of mathematics and statistics. Students will learn how to use dynamic systems models and geographical information systems to gain insight into natural and social processes relevant to environmental issues and policy decisions. Prerequisites include: ENVS 101 with a minimum grade of D and MATH 181 with a minimum grade of D."
+courseCatalogEntry = "Welcome to Terrestrial Ecology! In this course, students will build foundations in ecological principles and theories in order to analyze pressing ecological issues. Using data and field methods, students will explore the interactions that define ecosystems and evaluate cascading effects of altering these interactions. Prerequesites for this course include ENVS 202, BIO 150, CHEM 104, COSC 101, or instructor permission."
 fontAwesomePro = "sha384-POYwD7xcktv3gUeZO5s/9nUbRJG/WOmV6jfEGikMJu77LGYO8Rfs2X7URG822aum"
 
+
+
+
+[[menu.main]]
+weight = 1
+identifier = "Home"
+name = "Home"
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+url = "/"
 
 
 [[menu.main]]
@@ -73,20 +82,20 @@ name = "Schedule"
 pre = "<i class=\"material-icons\">date_range</i>"
 url = "/Schedule/"
 
-[[menu.main]]
-weight = 4
-identifier = "Policies"
-name = "Policies"
-pre = "<i class=\"material-icons\">gavel</i>"
-url = "/Policies/"
 
 [[menu.main]]
-weight = 5
+weight = 4
 identifier = "Resources"
 name = "Resources"
 pre = "<i class=\"material-icons\">library_books</i>"
 url = "/Resources/"
 
+[[menu.main]]
+weight = 5
+identifier = "Involved"
+name = "Get Involved!"
+pre = "<i class=\"material-icons\">accessibility</i>"
+url = "/Involved/"
 
 [outputs]
 home = ["HTML", "CSS", "RSS"]
@@ -96,9 +105,4 @@ taxonomyTerm = ["HTML", "RSS"]
 
 
 
-[[menu.main]]
-weight = 1
-identifier = "Home"
-name = "Home"
-pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-url = "/"
+
