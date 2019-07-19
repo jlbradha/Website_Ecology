@@ -13,7 +13,7 @@ slug: Involved
 ---
 
 ### 1) Join an ecological association
-There are a lot of ecologists out there and the field of ecology is incredably broad. Consider joining an ecological association to meet others who share you love of ecology. Each of these associations hold an annual meeting, which is a great way to meet potential graduate school advisors, learn about internship opportunities, or find ecology-related jobs.
+There are a lot of ecologists out there and the field of ecology is incredibly broad. Consider joining an ecological association to meet others who share your love of ecology. Each of these associations hold an annual meeting, which is a great way to meet potential graduate school advisers, learn about internship opportunities, or find ecology-related jobs.
 
 While there are a plethora of ecological societies, below are a sampling of some of the more broad ones:
 
@@ -38,13 +38,13 @@ Do you think you might want to work in an ecology-related field? A great way to 
 
 
 ### 4) Explore the ecological literature
-There is a wealth of ecological research that has been done and more ecology papers are being publushed daily. Why not read a few to see what piques your interest? Here are some great starting resources:
+There is a wealth of ecological research that has been done and more ecology papers are being published daily. Why not read a few to see what piques your interest? Here are some great starting resources:
 
 * [Science](https://www.sciencemag.org/)*
 
 * [Nature](https://www.nature.com/)*
 
-* [Ecological Soceity of America Journals](https://www.esa.org/publications/)*
+* [Ecological Society of America Journals](https://www.esa.org/publications/)*
 
 * [Science Daily](https://www.sciencedaily.com/news/earth_climate/environmental_science/)**
 

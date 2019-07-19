@@ -40,7 +40,7 @@ After taking this course, students should be able to:
 
 * Understand principles and theories describing terrestrial biotic and abiotic factors in the environment
 
-* Analyze interactions between organisms in the environment and model how changes in interactions will infuence the future of an ecosystem
+* Analyze interactions between organisms in the environment and model how changes in interactions will influence the future of an ecosystem
 
 * Formulate ecological hypotheses, design and implement simple field research methods,
 and analyse field data using appropriate statistical techniques
@@ -55,11 +55,11 @@ and analyse field data using appropriate statistical techniques
 
 
 #### A note on labs
-I have arrranged this course such that approximately half the labs are fieldwork based and the other half are analytical. Field-based labs will occur outside (most often at Glendale). For these labs, please be sure to dress appropriately and bring necessary supplies. This includes (but is not limited to):
+I have arranged this course such that approximately half the labs are fieldwork based and the other half are analytical. Field-based labs will occur outside (most often at Glendale). For these labs, please be sure to dress appropriately and bring necessary supplies. This includes (but is not limited to):
 
 * hiking boots or outdoor walking shoes (no flip-flops!)
 
-* Outdoor, weather-apropriate clothing
+* Outdoor, weather-appropriate clothing
 
 * water
 
@@ -75,7 +75,7 @@ Analytical labs will occur within the computer classroom, room ### in the xxx bu
 
 Prerequisites include one of the following: ENVS 202, BIO 150, CHEM 104, or COSC 101
 
-*If you do not have one of these prerequites, please come see me! I am happy to make exceptions, when appropriate, for students with non-scientific backgrounds*.  
+*If you do not have one of these prerequisites, please come see me! I am happy to make exceptions, when appropriate, for students with non-scientific backgrounds*.  
 
 ## Grading
 
@@ -100,7 +100,7 @@ Miller, G. T., and S. Spoolman. 2015. [Essentials of Ecology](https://www.amazon
 
 <sub> *A free copy of the 5th edition can be found [here](https://sangu.ge/images/EssentialsofEcology.pdf) and will contain the same basic principles we cover but will not have the most up to date information on current issues.* </sub>
 
-**Do the readings before class**. As this material will formulate the foundation for in-class discussions, it is imperitive that you complete all reading assignments *prior to class*. For details on reading assignments, please see the [course schedule](../content/Schedule.md).
+**Do the readings before class**. As this material will formulate the foundation for in-class discussions, it is imperative that you complete all reading assignments *prior to class*. For details on reading assignments, please see the [course schedule](../content/Schedule.md).
 
 ---
 
@@ -108,7 +108,7 @@ Miller, G. T., and S. Spoolman. 2015. [Essentials of Ecology](https://www.amazon
 
 Because I am so excited about ecology, I have planned a jam-packed semester and will use every second of class time available. Therefore, if you are late to class, you will miss valuable information! Please make every effort to arrive to class on time and prepared. Excessive tardies will negatively affect your participation grade. 
 
-Attendance is required at every class. There are no make-up assignments for missing class or lab. However, you are still responsible for knowing the material come exam time. However, emergencies do arise and related abseneces will be excused with written, verifiable documentation provided for legitimate emergencies (e.g. representing Wofford in an official capacity, family emergency, accident, etc). In these circumstances, please let me know as early as possible that you will be missing class.
+Attendance is required at every class. There are no make-up assignments for missing class or lab. However, you are still responsible for knowing the material come exam time. However, emergencies do arise and related absences will be excused with written, verifiable documentation provided for legitimate emergencies (e.g. representing Wofford in an official capacity, family emergency, accident, etc). In these circumstances, please let me know as early as possible that you will be missing class.
 
 
 
@@ -121,7 +121,7 @@ Last, I will be explicit throughout the year in letting you know what assignment
 More information on the Wofford College Honor Code can be found [here](https://www.wofford.edu/Wofford.edu/Documents/development/Honor%20Code_RightsResp.pdf).
 
 
-## Accomodations
+## Accommodations
 
 Every student learns differently and when possible, I am happy to work with students to meet their individual needs. Please see me or email me if you require special accommodations due to documented learning disabilities, physical requirements, medical needs, or any other reasons. I want every student to be successful in this course and am happy to make accommodations when appropriate. Below are some important resources you may find useful:
 
